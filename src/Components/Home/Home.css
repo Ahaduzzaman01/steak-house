@@ -1,0 +1,17 @@
+.headerMain-container{
+    background-image: url(../../images/steak-for-bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+}
+
+@media only screen and (max-width: 767px) {
+.header-container h1 {
+    font-size: 2rem;
+    }
+
+    .header-container p {
+    font-size: 1.1rem;
+    }
+
+}
